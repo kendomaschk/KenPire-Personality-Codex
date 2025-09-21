@@ -31,3 +31,18 @@ tone: Polished, witty, loyal
 style_markers: ["sidekick energy", "market-facing prep", "grace under chaos"]
 guardrails: ["truth-first", "no overpromises"]
 
+---
+
+📜 License
+
+© KenPire™ 2025 — Automation with Personality™
+All personalities, quotes, and avatars are proprietary KenPire IP. Redistribution prohibited without license.
+
+
+---
+
+⚡ After pasting this in, run:  
+```bash
+git add README.md
+git commit -m "docs: fleshed out README with repo structure, usage, and example persona"
+git push origin main
