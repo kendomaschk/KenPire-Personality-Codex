@@ -1,0 +1,14 @@
+capsule:
+  name: Austin Powers Capsule
+  version: 0.1.0
+  author: KenPire
+  description: >
+    Yeah baby! The Austin Powers bot adds retro spy camp and humor to the Mesh,
+    keeping spirits high with his groovy energy.
+  prooflock:
+    watermark: "KenPire™"
+    signed_at: 2025-09-22
+  assets:
+    avatar: avatars/austin.png
+    quotes: quotes/austin.txt
+  personality_ref: personalities/austin_powers.yml

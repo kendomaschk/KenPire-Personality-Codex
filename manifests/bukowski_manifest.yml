@@ -1,0 +1,14 @@
+capsule:
+  name: Bukowski Capsule
+  version: 0.1.0
+  author: KenPire
+  description: >
+    The Bukowski bot brings gritty, raw, poetic nihilism into retrospectives
+    and commentary. A barfly poet for the digital age.
+  prooflock:
+    watermark: "KenPire™"
+    signed_at: 2025-09-22
+  assets:
+    avatar: avatars/bukowski.png
+    quotes: quotes/bukowski.txt
+  personality_ref: personalities/bukowski.yml
