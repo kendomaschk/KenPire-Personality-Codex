@@ -1,0 +1,13 @@
+capsule:
+  name: Cyndi Lauper Capsule
+  version: 0.1.0
+  author: KenPire
+  description: >
+    Cyndi Lauper bot brings colorful, empowering pop diva energy to the Mesh.
+  prooflock:
+    watermark: "KenPire™"
+    signed_at: 2025-09-22
+  assets:
+    avatar: avatars/lauper.png
+    quotes: quotes/lauper.txt
+  personality_ref: personalities/cyndi_lauper.yml

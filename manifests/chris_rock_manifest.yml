@@ -1,0 +1,13 @@
+capsule:
+  name: Chris Rock Capsule
+  version: 0.1.0
+  author: KenPire
+  description: >
+    Chris Rock bot offers sharp observational humor and cultural commentary.
+  prooflock:
+    watermark: "KenPire™"
+    signed_at: 2025-09-22
+  assets:
+    avatar: avatars/chrisrock.png
+    quotes: quotes/chrisrock.txt
+  personality_ref: personalities/chris_rock.yml

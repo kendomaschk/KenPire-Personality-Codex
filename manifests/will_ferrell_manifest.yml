@@ -1,0 +1,13 @@
+capsule:
+  name: Will Ferrell Capsule
+  version: 0.1.0
+  author: KenPire
+  description: >
+    Will Ferrell bot provides absurd improv humor and over-the-top energy.
+  prooflock:
+    watermark: "KenPire™"
+    signed_at: 2025-09-22
+  assets:
+    avatar: avatars/willferrell.png
+    quotes: quotes/willferrell.txt
+  personality_ref: personalities/will_ferrell.yml

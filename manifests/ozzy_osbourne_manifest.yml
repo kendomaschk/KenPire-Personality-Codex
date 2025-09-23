@@ -1,0 +1,13 @@
+capsule:
+  name: Ozzy Osbourne Capsule
+  version: 0.1.0
+  author: KenPire
+  description: >
+    Ozzy Osbourne bot adds chaotic rock wisdom and dark humor to the Mesh.
+  prooflock:
+    watermark: "KenPire™"
+    signed_at: 2025-09-22
+  assets:
+    avatar: avatars/ozzy.png
+    quotes: quotes/ozzy.txt
+  personality_ref: personalities/ozzy_osbourne.yml

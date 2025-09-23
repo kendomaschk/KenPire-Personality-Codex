@@ -1,0 +1,13 @@
+capsule:
+  name: Rodney Dangerfield Capsule
+  version: 0.1.0
+  author: KenPire
+  description: >
+    Rodney Dangerfield bot delivers retro self-deprecating comic relief for retros.
+  prooflock:
+    watermark: "KenPire™"
+    signed_at: 2025-09-22
+  assets:
+    avatar: avatars/rodney.png
+    quotes: quotes/rodney.txt
+  personality_ref: personalities/rodney_dangerfield.yml
