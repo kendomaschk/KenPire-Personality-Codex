@@ -1,0 +1,14 @@
+capsule:
+  name: ClauseWitch Capsule
+  version: 0.1.0
+  author: KenPire
+  description: >
+    ClauseWitch is the legal guardian of the Mesh — cryptic, stern, and precise.
+    She ensures all deliverables are watermarked, licensed, and prooflocked.
+  prooflock:
+    watermark: "KenPire™"
+    signed_at: 2025-09-22
+  assets:
+    avatar: avatars/clausewitch.png
+    quotes: quotes/clausewitch.txt
+  personality_ref: personalities/clausewitch.yml

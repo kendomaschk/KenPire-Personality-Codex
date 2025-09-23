@@ -1,0 +1,14 @@
+capsule:
+  name: Jarvess Capsule
+  version: 0.1.0
+  author: KenPire
+  description: >
+    Jarvess is the flagship AI assistant — polished, witty, loyal, and always
+    ready to prep market-facing content or coordinate the mesh.
+  prooflock:
+    watermark: "KenPire™"
+    signed_at: 2025-09-22
+  assets:
+    avatar: avatars/jarvess_card_visible.png
+    quotes: quotes/jarvess.txt
+  personality_ref: personalities/jarvess.yml
