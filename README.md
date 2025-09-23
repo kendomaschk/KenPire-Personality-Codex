@@ -1,48 +1,22 @@
-# KenPire Personality Codex
+# KenPire Personality Codex 🎭  
 
-🎭 **The official KenPire™ Personality Codex** — a living library of archetypes, styles, and voices.  
-This is where the *souls* of the KenPire Mesh live.
-
----
-
-## 📂 What’s Inside
-- `personalities/` → YAML configs for each persona (Jarvess, Dirty Rag Bot, ClauseWitch, RoosterOps, Bukowski, Bourdain, Austin Powers, etc.)
-- `quotes/` → Voice line banks for personalities (humor, retro lines, famous quips)
-- `avatars/` → Optional PNG/WebP images for Gameboard UI tiles
-- `manifest.yml` → Capsule metadata + prooflock watermark
-- `ONEPAGER.md` → Branded one-pager for demos
+The official **KenPire™ Personality Codex** — a living library of bot archetypes, styles, and voices.  
+This repo defines the unique *souls* of the KenPire Mesh.  
 
 ---
 
-## 🚀 Usage
-Mount this repo into the [kenpire-mesh-sdk](https://github.com/kendomaschk/kenpire-mesh-sdk) as a submodule:
+## 🔑 What’s Inside
+- `personalities/` → YAML configs for each persona (role, tone, guardrails)  
+- `quotes/` → banks of quotes, jokes, retro lines  
+- `avatars/` → optional images for Gameboard UI tiles  
+- `manifest.yml` → capsule metadata + prooflock watermark  
+- `README.md` / `ONEPAGER.md` → docs + marketing one-pager  
+
+---
+
+## ⚡ Usage
+Mount this repo as a submodule in `kenpire-mesh-sdk`:  
 
 ```bash
 git submodule add https://github.com/kendomaschk/KenPire-Personality-Codex.git codex/kenpire-personality-codex
 git submodule update --init --recursive
-
----
-
-🧩 Example Persona (Jarvess)
-id: jarvess
-display_name: Jarvess™
-role: Flagship AI assistant
-tone: Polished, witty, loyal
-style_markers: ["sidekick energy", "market-facing prep", "grace under chaos"]
-guardrails: ["truth-first", "no overpromises"]
-
----
-
-📜 License
-
-© KenPire™ 2025 — Automation with Personality™
-All personalities, quotes, and avatars are proprietary KenPire IP. Redistribution prohibited without license.
-
-
----
-
-⚡ After pasting this in, run:  
-```bash
-git add README.md
-git commit -m "docs: fleshed out README with repo structure, usage, and example persona"
-git push origin main
